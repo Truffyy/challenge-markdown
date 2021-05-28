@@ -31,4 +31,4 @@ One day with a friend, we discovered 15.000 euros into a envelope, that was the 
 
 ### We were rich.
 
- [<< previous](https://github.com/marianne-79/challenge-markdown/blob/main/markdown.md)|| Martin Trufley || [next >>](https://github.com/mathieuxder/challenge-markdown/blob/main/README.md)
+ [<< previous](https://github.com/marianne-79/challenge-markdown/blob/main/markdown.md)|| Martin Trufley || [next >>](https://github.com/mathieuxder/challenge-markdown)
