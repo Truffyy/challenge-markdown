@@ -1,0 +1,51 @@
+table, th, td {
+   width: 50%; 
+border: 1px solid white;
+margin-left: 100px;
+
+}
+.citation{
+    font-size: 50px;
+    padding-left: 60%;
+    background-color: tomato;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.parfait {
+    font-size: 40px;
+    background-color: tomato;
+}
+
+body {
+    margin: none;
+    background-color: brown;
+    color: black;
+}
+
+thead{
+    font-size: 40px;
+    padding: 50%;
+}
+
+footer {
+    margin: 0px;
+    padding-left: 35%;
+    font-size: 40px;
+    padding-top: 100px;
+    background-color: tomato;
+}
+.pizza {
+    padding-left: 700px;
+    margin-top: 100px;
+}
+.photo {
+    padding-left: 600px;
+}
+
+.fin {
+    background-color: tomato;
+    font-size: 40px;
+}
